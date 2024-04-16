@@ -1,8 +1,8 @@
 const Instant = () => {
   return (
     <div className="container p-4" style={{ backgroundColor: "black", position: "relative" }}>
-      <div className="row">
-        <div className="col" style={{ textAlign: 'center' }}>
+      <div className="row mb-5">
+        <div className="col mb-5" style={{ textAlign: 'center' }}>
           <br />
           <br />
           <br />

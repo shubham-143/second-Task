@@ -4,17 +4,18 @@ import Interface from './Components/Interface/Interface';
 import Footer from './Components/Footer/Footer';
 import Frequently from './Components/Frequently/Frequently';
 import Card from './Components/Card/Card';
-import Navbar from './Components/Navbar/Navbar';
+import Image from './Components/Navbar/Image';
 import Desktop from './Components/Desktop/Deskstop';
-import Header from './Components/Header/Header';
+import Navbar2 from './Components/Navbar2/Navbar2';
 import Kit from './Components/Kit/Kit';
+
 function App() {
   return (
     <div>
       <Kit></Kit>
-      <Header></Header>
+      <Navbar2></Navbar2>
       <Desktop></Desktop>
-      <Navbar></Navbar>
+      <Image></Image>
       <Card></Card>
       <Interface></Interface>
       <Frequently></Frequently>
